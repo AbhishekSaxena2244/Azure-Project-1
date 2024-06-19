@@ -1,0 +1,13 @@
+1. Public Load Balancer.
+![Screenshot (176)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/976a108f-1cfe-46f1-bf03-41204a6567c9)
+![Screenshot (177)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/ad51f5c8-05fb-4b8a-b1ba-e05f546ba04a)
+![WhatsApp Image 2024-05-26 at 12 31 32 PM](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/406f7123-c18e-4865-b64f-c80e1ed7db96)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (1)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/eb706452-f090-406c-b8e6-fc86fceb4a9b)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (2)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3ee3f4ed-76c1-4ff6-b788-7cc6495be80b)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (3)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/c5a037a8-8f80-4e7b-8e28-04c575dc72d8)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (4)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/ff27571b-b1c8-4381-ba45-8a6a4ed6dae6)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (5)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3b4dde6c-578e-4854-983d-d3a3f6fee9fc)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (6)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/73455ec7-5e7e-4259-ba13-58032eac2f78)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM (7)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/2bdb168d-d30b-4092-8aa9-26790d656453)
+![WhatsApp Image 2024-05-26 at 12 31 33 PM](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/8d7f58dd-9ac3-4025-936d-496669f76e33)
+![WhatsApp Image 2024-05-26 at 12 31 34 PM](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/da05da2a-10c7-48f5-ab8e-2f0ed410ad0b)
