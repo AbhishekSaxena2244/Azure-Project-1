@@ -1,4 +1,4 @@
-1. Website Hosting on Azure Virtual Machine.
+Website Hosting on Azure Virtual Machine.
 ![1111](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/9517a1c3-376e-4690-addc-6421b504d4ab)
 ![2222](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/cf6944a1-3054-4c7b-adb5-6deb997604bc)
 ![3333](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/d2e0f83d-5bb7-44cd-9111-eca250854131)
