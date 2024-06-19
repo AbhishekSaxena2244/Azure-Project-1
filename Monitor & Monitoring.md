@@ -1,1 +1,15 @@
-
+Azure Monitor Implementation.
+![Screenshot (105)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/205eb470-8057-4bfe-bb4f-28f587a1344d)
+![Screenshot (106)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/9e8cb55f-90eb-4dfa-bef9-fc51dfa336b7)
+![Screenshot (107)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/223710a1-90f9-4dd6-bcbc-b182c117bb14)
+![Screenshot (108)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/e9d09d63-6d2d-4c2d-a171-f5851127b5c9)
+![Screenshot (109)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/4e571a23-f491-4fad-8e20-730648dbe434)
+![Screenshot (110)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/18434972-58f8-42c3-ba51-0a828e7ee2c4)
+![Screenshot (111)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/8db51226-eb63-4254-a71e-b1208c4505d2)
+![Screenshot (112)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/8c6d6536-6d64-40b7-9769-8a083b5fb7a0)
+![Screenshot (113)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/fae2431e-2988-45c5-ba29-d83ad84a16f1)
+![Screenshot (114)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3ce88a4a-f960-4d71-9f37-cc72a09465aa)
+![Screenshot (115)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/e718e111-7557-4211-8180-0d1ca7804805)
+![Screenshot (116)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/07b6526e-14b7-4bcf-8b3c-294f5ceb3ae6)
+![Screenshot (117)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3676c1a9-92e8-48c8-9744-63f0b6feb61a)
+![Screenshot (118)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/524c5a4b-abbb-4b05-a4b5-085994758e03)
