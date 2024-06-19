@@ -1,12 +1,9 @@
 Website Hosting on Azure Virtual Machine.
-![1111](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/9517a1c3-376e-4690-addc-6421b504d4ab)
 ![2222](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/cf6944a1-3054-4c7b-adb5-6deb997604bc)
 ![3333](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/d2e0f83d-5bb7-44cd-9111-eca250854131)
 ![4444](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/a596a33d-dd72-4c88-912d-6e370e2b4b6f)
 ![5555](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/0cc285e7-3bdc-4a32-a9fb-7b0745d4fbd0)
-![6666](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/72ffa957-807a-4925-bb83-352c88d1a5fc)
 ![7777](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/b71b6042-22d5-4f33-9cb9-b16f3316c466)
-![8888](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/2c8fc3b7-fa38-408a-b1ea-857426e4751c)
 ![9999](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3bed2a52-cf95-47e1-8ec3-87a8eeddd661)
 ![aaaa](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/31c08c0c-c488-4fdf-9b7e-2f5e1caf2ce7)
 ![Screenshot (1)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/5c30b78c-f9ae-4cc5-9a03-1c97cd881c86)
