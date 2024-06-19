@@ -1,6 +1,5 @@
 Public Load Balancer.
 ![Screenshot (176)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/976a108f-1cfe-46f1-bf03-41204a6567c9)
-![Screenshot (177)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/ad51f5c8-05fb-4b8a-b1ba-e05f546ba04a)
 ![WhatsApp Image 2024-05-26 at 12 31 32 PM](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/406f7123-c18e-4865-b64f-c80e1ed7db96)
 ![WhatsApp Image 2024-05-26 at 12 31 33 PM (1)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/eb706452-f090-406c-b8e6-fc86fceb4a9b)
 ![WhatsApp Image 2024-05-26 at 12 31 33 PM (2)](https://github.com/AbhishekSaxena2244/Azure-Project-1/assets/87027647/3ee3f4ed-76c1-4ff6-b788-7cc6495be80b)
